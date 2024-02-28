@@ -1,0 +1,36 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Quattrocento", "Times New Roman", Times, serif;
+}
+
+p, a {
+    font-family: "Lora", "Times New Roman", Times, serif;
+}
+
+.container {
+    display:flex;
+}
+
+
+.sidebar {
+    padding:2%;
+}
+
+.sidebar ul {
+    padding:0;
+}
+
+.sidebar li {
+    text-decoration: none;
+    list-style: none;
+}
+.content {
+    padding:10%;
+}
+
+.content .entry {
+    margin-bottom: 100px;
+}
+
+.content .entry .timestamp {
+    text-align: right;
+}
