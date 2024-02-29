@@ -1,23 +1,29 @@
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: "Quattrocento", "Times New Roman", Times, serif;
 }
 
-p, a {
+p,
+a {
     font-family: "Lora", "Times New Roman", Times, serif;
 }
 
 .container {
-    display:flex;
+    display: flex;
     justify-content: space-between;
 }
 
 
 .sidebar {
-    padding:2%;
+    padding: 2%;
 }
 
 .sidebar ul {
-    padding:0;
+    padding: 0;
 }
 
 .sidebar li {
@@ -26,17 +32,17 @@ p, a {
 }
 
 #toggle-sidebar-button {
-    position:fixed;
+    position: fixed;
     bottom: 20px;
-    right:20px;
+    right: 20px;
     background: none;
     border: none;
     cursor: pointer;
-    font-size:1em;
+    font-size: 1em;
 }
 
 .content {
-    padding:10%;
+    padding: 10%;
 }
 
 .content .entry {
