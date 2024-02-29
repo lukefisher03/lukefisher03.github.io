@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.1.2
+
+- buttons now follow the font styling
+
 ## v0.1.1
 
 - added doctype to html documents

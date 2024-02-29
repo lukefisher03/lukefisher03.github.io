@@ -8,7 +8,8 @@ h6 {
 }
 
 p,
-a {
+a,
+button {
     font-family: "Lora", "Times New Roman", Times, serif;
 }
 
@@ -51,4 +52,5 @@ a {
 
 .content .entry .timestamp {
     text-align: right;
+    font-style: italic;
 }
